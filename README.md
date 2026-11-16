@@ -1,6 +1,6 @@
 # Blender AI Assistant
 
-**Version:** 0.3.4\
+**Version:** 0.4.0\
 **Author:** Daniel Isangedighi\
 **Blender compatibility declared by the add-on:** Blender 5.2.0 and
 later 5.2.x releases
